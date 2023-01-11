@@ -1,7 +1,7 @@
 ### Opa Td bem? Eu sou o Isac Bandeira 👋
 
 - 🔭 Hoje estou trabalhando Full Stack
-- 🌱 Atualmente Estudando JavaScript
+- 🌱 Atualmente Estudando React Native
 - 😄 Pronomes: ele/dele 
 - ⚡ Curiosidade com TypeScript
 
